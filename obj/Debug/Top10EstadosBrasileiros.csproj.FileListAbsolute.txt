@@ -1,0 +1,7 @@
+C:\Users\marci\source\repos\Top10EstadosBrasileiros\Top10EstadosBrasileiros\Top10EstadosBrasileiros\bin\Debug\Top10EstadosBrasileiros.exe.config
+C:\Users\marci\source\repos\Top10EstadosBrasileiros\Top10EstadosBrasileiros\Top10EstadosBrasileiros\bin\Debug\Top10EstadosBrasileiros.exe
+C:\Users\marci\source\repos\Top10EstadosBrasileiros\Top10EstadosBrasileiros\Top10EstadosBrasileiros\bin\Debug\Top10EstadosBrasileiros.pdb
+C:\Users\marci\source\repos\Top10EstadosBrasileiros\Top10EstadosBrasileiros\Top10EstadosBrasileiros\obj\Debug\Top10EstadosBrasileiros.csprojAssemblyReference.cache
+C:\Users\marci\source\repos\Top10EstadosBrasileiros\Top10EstadosBrasileiros\Top10EstadosBrasileiros\obj\Debug\Top10EstadosBrasileiros.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\Top10EstadosBrasileiros\Top10EstadosBrasileiros\Top10EstadosBrasileiros\obj\Debug\Top10EstadosBrasileiros.exe
+C:\Users\marci\source\repos\Top10EstadosBrasileiros\Top10EstadosBrasileiros\Top10EstadosBrasileiros\obj\Debug\Top10EstadosBrasileiros.pdb
